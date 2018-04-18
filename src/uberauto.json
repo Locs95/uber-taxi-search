@@ -1,0 +1,4112 @@
+[
+ {
+   "name": "Acura MDX",
+   "uberx": "2008",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Acura RDX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Acura TLX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Acura ZDX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Alfa Romeo 156",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Alfa Romeo 159",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A2",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A3",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A4",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A5",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi A6",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Audi A7",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Audi A8",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Audi A8 L",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Audi Q3",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi Q5",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Audi Q7",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Bentley Continental",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Bentley Flying Spur",
+   "uberx": "Не подходит",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "BMW 1-series",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW 3-series",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW 5-series",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "BMW 6-series",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW 7-series",
+   "uberx": "2006",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "BMW X1",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW X3",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW X4",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW X5",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BMW X6",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Brilliance B6",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Brilliance H530",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Brilliance V5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "BYD F3",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Cadillac BLS",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Cadillac CTS",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Cadillac Escalade",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Cadillac SRX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chang'an CS35",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A13",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A15",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A19",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A21",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery A6",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Amulet",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Arrizo 7",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Bonus",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery CrossEastar",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Fora",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery IndiS S18D",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Kimo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery M11",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery S18",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery T21",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Tiggo",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery V5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery Very",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chery X-Cross",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Aveo",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Captiva",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Cobalt",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Cruze",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Epica",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Evanda",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Kalos",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Klan",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Lacetti",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Lanos",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Malibu",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Niva",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Orlando",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Rezzo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Spark",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Tahoe",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Tracker",
+   "uberx": "2014",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Trailblazer",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Vectra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Viva",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Volt",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chevrolet Zafira",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler 300",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler Caravan",
+   "uberx": "2007",
+   "uberselect": "2014",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler PT Cruiser",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler Sebring",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler Town and Country",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Chrysler Voyager",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen Berlingo",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C-Crosser",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C-Elysee",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C3",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C3 Picasso",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C4",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C4 Aircross",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C4 Picasso",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C5",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C6",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen C8",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen DS3",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen DS4",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen DS5",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen Elysee",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Citroen Xsara Picasso",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dacia Duster",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dacia Logan",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Espero",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Gentra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Lanos",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Leganza",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Magnus",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Matiz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Nexia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Nexia new",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daewoo Nubira",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daihatsu Mira",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daihatsu Move",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daihatsu Pyzar",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Daihatsu Yrv",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Datsun mi-DO",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Datsun On-Do",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Caliber",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Caravan",
+   "uberx": "2007",
+   "uberselect": "2014",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Durango",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Intrepid",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Journey",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Nitro",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dodge Stratus",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dongfeng H30",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Dongfeng S30",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Doninvest Kondor",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "FAW Besturn B50",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "FAW V5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat 500",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Albea",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Bravo",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Croma",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Doblo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Freemont",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Grande Punto",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Linea",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Panda",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Fiat Punto",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford C-Max",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford C-Max Hybrid",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford EcoSport",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Edge",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Escape",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Escort",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Explorer",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Fiesta",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Focus",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Fusion",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Galaxy",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Kuga",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Maverick",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Mondeo",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford S-Max",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Tourneo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Transit Custom",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ford Turneo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely CK-1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely EC8",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely Emgrand 7",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely Emgrand EC7",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely Emgrand X7",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely FC (vision)",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely GC6",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely GC9",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely MK",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely Mk Cross",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Geely MR7180U1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Genesis G80",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Great Wall Haval H2",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Great Wall Haval H6",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Great Wall Haval H8",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Great Wall Haval H9",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Great Wall Hover",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Great Wall Hover 5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hafei Saibao",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Haima 219300",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Haval h2",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Haval h6",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Haval h8",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Haval h9",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hawtai Boliger",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Captiva",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Cruze",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Epica",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Insignia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Vectra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Holden Zafira",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Accord",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Airwave",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Avancier",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda capa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Civic",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda CR-V",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Crosstour",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Domani",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Element",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Fit",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda FR V",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda FR-V",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Freed",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Gold Wing",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda HR-V",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Insight",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Insight Hybrid",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Inspire",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Integra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Jazz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Legend",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Life",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Logo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Mobilio spike",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Odyssey",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Orthia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Partner",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Pilot",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Ridgeline",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Saber",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Stepwgn",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Stream",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Torneo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Honda Zest",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hummer H1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hummer H2",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hummer H3",
+   "uberx": "Не подходит",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Accent",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Avante",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Aсcent",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Creta",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Elantra",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Equus",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Hyundai Genesis",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2013"
+ },
+ {
+   "name": "Hyundai Getz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Grand Starex",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Grandeur",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai H-1",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai i10",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai i20",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai i30",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai i35",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai i40",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai ix35",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai ix55",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Matrix",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Santa Fe",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Solaris",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Sonata",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Starex",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Trajet",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Tucson",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Hyundai Verna",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti EX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti FX",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti G Sedan",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti M",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti Q50",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti QX70",
+   "uberx": "2010",
+   "uberselect": "2014",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Infiniti QX80",
+   "uberx": "2010",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Iran Khodro (IKCO) Samand",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jaguar F-PACE 2016",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Jaguar S Type",
+   "uberx": "2007",
+   "uberselect": "2008",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jaguar S-Type",
+   "uberx": "2007",
+   "uberselect": "2008",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jaguar X-Type",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jaguar XE",
+   "uberx": "2015",
+   "uberselect": "2015",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jaguar XF",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Jaguar XJ",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Jeep Compass",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jeep Grand Cherokee",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Jeep Wrangler",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Avella delta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Borrego",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Carens",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Carnival",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Cee'd",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Cee'd Sportswagon",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Cerato",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Claros",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Magentis",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Mohave",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Opirus",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Optima",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Picanto",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Quoris",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Kia Rio",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Shuma",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Sorento",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Soul",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Spectra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Sportage",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Kia Venga",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada 112",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada 2110",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada 2111",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Granta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Kalina",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Largus",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Priora",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Samara",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada Vesta",
+   "uberx": "2015",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lada XRAY",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lancia Delta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lancia Epsilon",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lancia Ypsilon",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Land Rover Discovery",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Land Rover Freelander",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Land Rover Range Rover",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Land Rover Range Rover Evoque",
+   "uberx": "2011",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Land Rover Range Rover Sport",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Landwind X5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Landwind X6",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus CT",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus CT Hybrid",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus ES",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Lexus GS",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Lexus GX",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus IS",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus LS",
+   "uberx": "2006",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Lexus LS Hybrid",
+   "uberx": "2006",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus LX",
+   "uberx": "2009",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus NX",
+   "uberx": "2014",
+   "uberselect": "2014",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lexus RX",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan Breez",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan Cebrium",
+   "uberx": "2014",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan Murman",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan Smily",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan Solano",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan X50",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lifan X60",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Lincoln LS",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Maserati Quattroporte",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Maybach 57",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Maybach 62",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Mazda 626",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Atenza",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Axela",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Bongo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Capella",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda CX-5",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda CX-7",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda CX-9",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Demio",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Familia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda MAZDA2",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda MAZDA3",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda MAZDA5",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda MAZDA6",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Millenia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda MPV",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Premacy",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Protege",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Tribute",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mazda Verisa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz A-Class",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz B-Class",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz C-Class",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz CLA-Class",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz CLS-Class",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz E-Class",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Mercedes-Benz E-Class Wagon",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz GL-Class",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Mercedes-Benz GLA-Class",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz GLC-Class",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz GLE-Class",
+   "uberx": "2007",
+   "uberselect": "2015",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz GLK-Class",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz GLS-Class",
+   "uberx": "2007",
+   "uberselect": "2015",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz ML Class",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz R-Class",
+   "uberx": "2007",
+   "uberselect": "2010",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz S-Class",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Mercedes-Benz Vaneo",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz Viano",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mercedes-Benz Vito",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "MG GS",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mini Cooper",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mini Countryman",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Airtrek",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Aspire",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi ASX",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Carisma",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Colt",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Diamante",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Dion",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Galant",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Grandis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi L200",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Lancer",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Legnum",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Mirage",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Mirage dingo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Montero",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Montero Sport",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Outlander",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Pajero",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Pajero Io",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Pajero Pinin",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Pajero Sport",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi RVR",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Space star",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Mitsubishi Space Wagon",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan AD",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Almera",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Almera Tino",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Avenir",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Bassara",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Bluebird",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Cedric",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Cefiro",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Cube",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Dualis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Expert",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Juke",
+   "uberx": "2010",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Lafesta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Laurel",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Leaf",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Liberty",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan March",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Maxima",
+   "uberx": "2010",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Micra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Moco",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Murano",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Navara",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Note",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Otti",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Pathfinder",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Patrol",
+   "uberx": "2010",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Presage",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Primera",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Pulsar",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Qashqai",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan R'nessa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Sentra",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Serena",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Skyline",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Sunny",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Sylphy",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan TEANA",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Terrano",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Tiida",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan Wingroad",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Nissan X-Trail",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Antara",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Astra",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Astra Sports Tourer",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Astra Tourer",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Corsa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Insignia",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Meriva",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Mokka",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel NoName",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Omega",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Vectra",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Zafira",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Opel Zafira Tourer",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 1007",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 107",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 2008",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 206",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 207",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 207 SW",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 208",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 3008",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 301",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 307",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 308",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 308 SW",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 4007",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 406",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 407",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 408",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 5008",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 508",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 508 SW",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 607",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot 807",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot Ion",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Peugeot Partner",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Pontiac Vibe",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Porsche Cayenne",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Porsche Panamera",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ravon Gentra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ravon Nexia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ravon R3",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ravon R4",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Captur",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Clio",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Clio Break",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Duster",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Espace",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Fluence",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Grand Scenic",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Kangoo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Kaptur",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Koleos",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Laguna",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Latitude",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Logan",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Megane",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Megane Estate",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Modus",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault New Logan",
+   "uberx": "2014",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Sandero",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Scenic",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Stepway",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Symbol",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Twingo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Vel Satis",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Renault Сaptur",
+   "uberx": "2016",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Revon R3",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Revon R4",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Rolls-Royce Phantom",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Rover 25",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Rover 45",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Saab 9-3X",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Saab 9-5",
+   "uberx": "2011",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Scion Xb",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Altea",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Cordoba",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Exeo",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Ibiza",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Leon",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Seat Toledo",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Exeo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Fabia",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Felicia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Octavia",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Rapid",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Roomster",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Superb",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Skoda Yeti",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Smart Forfour",
+   "uberx": "2009",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Soueast V5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Actyon",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Actyon Sports",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Korando",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Kyron",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "SSANGYONG MUSSO",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Rexton",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Ssangyong Stavic",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Forester",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Impreza",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Impreza WRX",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Legacy",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Outback",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Trezia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru Tribeca",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru XV",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Subaru XV Crosstrek",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Aerio",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Alto",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Escudo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Grand Vitara",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Liana",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Rei",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Splash",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Swift",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki SX4",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Wagon R",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Suzuki Сultus",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Tagaz C10",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Tagaz Road Partner",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Allex",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Allion",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Alphard",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Altezza",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Auris",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Auris Touring Sports",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Avalon",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Avensis",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Aygo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota bB",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Caldina",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Camry",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Carina",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Chaser",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla Altis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla Fielder",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla Rumion",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla RunX",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corolla Spacio",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corona",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corona Premio",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Corsa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Cresta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Crown",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Echo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Estima",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Fun Cargo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Gaia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Harrier",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Highlander",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Hilux",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Ipsum",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Isis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Ist",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Kluger",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Land Cruiser",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Land Cruiser Prado (150)",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Mark II",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Mark X",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Nadia",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Noah",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Opa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Passo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Picnic",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Pixis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Platz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Prius",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Probox",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Ractis",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Raum",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota RAV4",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Sienna",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Sienta",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Sprinter",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Sprinter Carib",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Starlet",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Succeed",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Tercel",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Urban Cruiser",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Venza",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Verossa",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Verso",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Vista",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Vitz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Voltz",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Voxy",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Will VS",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Windom",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota WISH",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Yaris",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Toyota Нетah",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Uaz Patriot",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vauxhall Antara",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vauxhall Insignia",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vauxhall Vectra",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vauxhall Zafira",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volga Siber",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Amarok",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Beetle",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Bora",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Caddy",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Caravelle",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen CC",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Golf",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Jetta",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Multivan",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Passat",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Phaeton",
+   "uberx": "2006",
+   "uberselect": "2009",
+   "uberblack": "2012"
+ },
+ {
+   "name": "Volkswagen Pointer",
+   "uberx": "2012",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Polo",
+   "uberx": "2010",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Sharan",
+   "uberx": "2007",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Tiguan",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Touareg",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Touran",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Transporter",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Up",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volkswagen Vento",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo C30",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo S40",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo S60",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo S80",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo S90",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo V40",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo V50",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo V60",
+   "uberx": "2007",
+   "uberselect": "2013",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo V70",
+   "uberx": "2007",
+   "uberselect": "2009",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo V90",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo XC60",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo XC70",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Volvo XC90",
+   "uberx": "2007",
+   "uberselect": "2012",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vortex Corda",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vortex Estima",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vortex Estina",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Vortex Tingo",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "ZAZ  Chacne",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "ZAZ  Chance",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "ZAZ Chance",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Zaz Sens",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Zhonghua V5",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Zotye T600",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ },
+ {
+   "name": "Богдан 2110",
+   "uberx": "Не подходит",
+   "uberselect": "Не подходит",
+   "uberblack": "Не подходит"
+ }
+]
